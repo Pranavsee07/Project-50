@@ -1,0 +1,35 @@
+.menu{
+display:flex;
+justify-content:space-evenly;
+background-color: black;
+font-size: 40px;
+color:white;
+
+}
+
+body{
+    background-color:black;
+    justify-content: space-evenly;
+-ms-flex-align: center;
+color: white;
+font-size: 20px;
+
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+
+.grid img{
+border: 2px solid white;
+border-radius: 50px;
+background:whitesmoke;
+}
+
+.origami{
+    border-radius: 20px;
+    background:black;
+    width: 310px;
+
+}
